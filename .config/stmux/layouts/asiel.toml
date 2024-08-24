@@ -1,0 +1,16 @@
+sessionName = "Stmux"
+rootDirectory = "~/Developer/Swift/stmux/"
+activeWindow = 0
+
+[[windows]]
+windowName = "Editor"
+[[windows.panes]]
+commands = ["vi"]
+
+[[windows]]
+windowName = "Server"
+[[windows.panes]]
+commands = ["swift build"]
+split = "vertical"
+[[windows.panes]]
+commands = ["htop"]

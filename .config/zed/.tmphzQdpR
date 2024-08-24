@@ -1,0 +1,73 @@
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"App","operation":"first open"}
+{"signed_in":false,"milliseconds_since_first_event":24,"type":"Setting","setting":"theme","value":"One Dark"}
+{"signed_in":false,"milliseconds_since_first_event":24,"type":"Setting","setting":"keymap","value":"VSCode"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Memory","memory_in_bytes":52035584,"virtual_memory_in_bytes":432561274880}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Cpu","usage_as_percentage":0.0,"core_count":8}
+{"signed_in":false,"milliseconds_since_first_event":240004,"type":"Memory","memory_in_bytes":50266112,"virtual_memory_in_bytes":432561274880}
+{"signed_in":false,"milliseconds_since_first_event":240004,"type":"Cpu","usage_as_percentage":1.9635265,"core_count":8}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Memory","memory_in_bytes":29327360,"virtual_memory_in_bytes":432562126848}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Cpu","usage_as_percentage":1.0860837,"core_count":8}
+{"signed_in":false,"milliseconds_since_first_event":226636,"type":"App","operation":"welcome page: toggle vim"}
+{"signed_in":false,"milliseconds_since_first_event":235492,"type":"App","operation":"welcome page: install cli"}
+{"signed_in":false,"milliseconds_since_first_event":240004,"type":"Memory","memory_in_bytes":60817408,"virtual_memory_in_bytes":432574464000}
+{"signed_in":false,"milliseconds_since_first_event":240004,"type":"Cpu","usage_as_percentage":0.46138036,"core_count":8}
+{"signed_in":false,"milliseconds_since_first_event":246698,"type":"App","operation":"welcome page: change keymap"}
+{"signed_in":false,"milliseconds_since_first_event":253667,"type":"App","operation":"welcome page: change theme"}
+{"signed_in":true,"milliseconds_since_first_event":281789,"type":"Editor","operation":"open","file_extension":"json","vim_mode":true,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":true,"milliseconds_since_first_event":286646,"type":"App","operation":"welcome page: close"}
+{"signed_in":true,"milliseconds_since_first_event":289413,"type":"App","operation":"extensions page: open"}
+{"signed_in":true,"milliseconds_since_first_event":299866,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"macos-classic","version":"0.0.8"}
+{"signed_in":true,"milliseconds_since_first_event":744,"type":"Extension","extension_id":"html","version":"0.1.1"}
+{"signed_in":true,"milliseconds_since_first_event":11135,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":true,"milliseconds_since_first_event":13877,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":14426,"type":"Extension","extension_id":"catppuccin","version":"0.2.8"}
+{"signed_in":true,"milliseconds_since_first_event":30922,"type":"Setting","setting":"theme","value":"Catppuccin Frappé"}
+{"signed_in":true,"milliseconds_since_first_event":33155,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":33785,"type":"Extension","extension_id":"dockerfile","version":"0.0.4"}
+{"signed_in":true,"milliseconds_since_first_event":38799,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":39399,"type":"Extension","extension_id":"git-firefly","version":"0.0.3"}
+{"signed_in":true,"milliseconds_since_first_event":41600,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":42232,"type":"Extension","extension_id":"toml","version":"0.1.1"}
+{"signed_in":true,"milliseconds_since_first_event":46640,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":47081,"type":"Extension","extension_id":"the-dark-side","version":"0.2.5"}
+{"signed_in":true,"milliseconds_since_first_event":48299,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":true,"milliseconds_since_first_event":53254,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":53854,"type":"Extension","extension_id":"make","version":"1.0.1"}
+{"signed_in":true,"milliseconds_since_first_event":55467,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":55920,"type":"Extension","extension_id":"github-theme","version":"0.0.2"}
+{"signed_in":true,"milliseconds_since_first_event":57889,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":true,"milliseconds_since_first_event":58858,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":59312,"type":"Extension","extension_id":"github-theme","version":"0.0.2"}
+{"signed_in":true,"milliseconds_since_first_event":60290,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":true,"milliseconds_since_first_event":63867,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":64508,"type":"Extension","extension_id":"vue","version":"0.0.3"}
+{"signed_in":true,"milliseconds_since_first_event":66916,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":67384,"type":"Extension","extension_id":"tokyo-night","version":"0.0.2"}
+{"signed_in":true,"milliseconds_since_first_event":69852,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":true,"milliseconds_since_first_event":75604,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":76396,"type":"Extension","extension_id":"swift","version":"0.2.0"}
+{"signed_in":true,"milliseconds_since_first_event":80264,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":80760,"type":"Extension","extension_id":"xcode-themes","version":"1.1.3"}
+{"signed_in":true,"milliseconds_since_first_event":81921,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":true,"milliseconds_since_first_event":83075,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":83576,"type":"Extension","extension_id":"xcode-themes","version":"1.1.3"}
+{"signed_in":true,"milliseconds_since_first_event":85384,"type":"App","operation":"extensions: uninstall extension"}
+{"signed_in":true,"milliseconds_since_first_event":95398,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":96058,"type":"Extension","extension_id":"svelte","version":"0.0.1"}
+{"signed_in":true,"milliseconds_since_first_event":98486,"type":"App","operation":"extensions: install extension"}
+{"signed_in":true,"milliseconds_since_first_event":99026,"type":"Extension","extension_id":"docker-compose","version":"0.1.0"}
+{"signed_in":true,"milliseconds_since_first_event":102725,"type":"App","operation":"open project"}
+{"signed_in":true,"milliseconds_since_first_event":115117,"type":"Editor","operation":"open","file_extension":null,"vim_mode":true,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":true,"milliseconds_since_first_event":115117,"type":"App","operation":"project diagnostics: open"}
+{"signed_in":true,"milliseconds_since_first_event":123176,"type":"Call","operation":"join channel","room_id":274284,"channel_id":2950}
+{"signed_in":true,"milliseconds_since_first_event":133420,"type":"Call","operation":"join channel","room_id":274286,"channel_id":9749}
+{"signed_in":true,"milliseconds_since_first_event":133829,"type":"Call","operation":"join channel","room_id":274112,"channel_id":393}
+{"signed_in":true,"milliseconds_since_first_event":135814,"type":"Call","operation":"open channel notes","room_id":274112,"channel_id":393}
+{"signed_in":true,"milliseconds_since_first_event":151696,"type":"Call","operation":"hang up","room_id":274112,"channel_id":393}
+{"signed_in":true,"milliseconds_since_first_event":161421,"type":"Editor","operation":"open","file_extension":null,"vim_mode":true,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":true,"milliseconds_since_first_event":161421,"type":"App","operation":"project diagnostics: open"}
+{"signed_in":true,"milliseconds_since_first_event":0,"type":"Memory","memory_in_bytes":108511232,"virtual_memory_in_bytes":493315604480}
+{"signed_in":true,"milliseconds_since_first_event":0,"type":"Cpu","usage_as_percentage":13.65466,"core_count":8}
+{"signed_in":true,"milliseconds_since_first_event":240007,"type":"Memory","memory_in_bytes":48070656,"virtual_memory_in_bytes":493104152576}
+{"signed_in":true,"milliseconds_since_first_event":240007,"type":"Cpu","usage_as_percentage":2.881308,"core_count":8}
